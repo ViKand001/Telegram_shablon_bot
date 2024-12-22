@@ -1,0 +1,14 @@
+{
+  "welcome_message": "✋ Botimizga hush kelibsiz, hurmatli Inson.Ushbu bot orqali sizning imkoniyatlaringiz yanada ko'paydi",
+  "help_message": "Quyidagi buyruqlardan foydalanishingiz mumkin.\n\n Botni qayta ishga tushurish yoki start kamandasini berish",
+  "choose_language": "Iltimos, o'zingizga qulay tilni tanlang",
+  "language_changed": "✅ Til muvaffaqiyatli o'zgartirildi. O'zbek tili",
+  "invalid_option": "❎ nog'ri variant. Iltimos, tilni tanlash uchun tugmalardan foydalaning:",
+  "welcome_admin_panel": "Admin paneliga hush kelibsz.Iltimos uchun quyidagi bo'limlar birini tanlang!",
+
+  "manage_users": "😎  Foydalanuvchilar boshqaruvi",
+  "send_advertisement": " 📩 Reklama yuborish",
+  "manage_channels": "Kanallar boshqaruvi",
+  "show_statistics": "🪁Statistika",
+  "exit": "❌ Chiqish"
+}

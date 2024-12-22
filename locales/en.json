@@ -1,0 +1,14 @@
+{
+  "welcome_message": "✋ Welcome to our bot, dear Human.\n\nYour opportunities have increased even more with this bot",
+  "help_message": "You can use the following commands.\n\nRestart the bot or issue a start command",
+  "choose_language": "Please choose your preferred language",
+  "language_changed": "✅ Language changed successfully. Uzbek language",
+  "invalid_option": "❎ Incorrect option. Please use the buttons to select the language.:",
+  "welcome_admin_panel": "Welcome to the admin panel. Please select one of the sections below!",
+
+  "manage_users": "😎  User management",
+  "send_advertisement": " 📩Submit an ad",
+  "manage_channels": "Channel management",
+  "show_statistics": "🪁Statistika",
+  "exit": "❌ Exit"
+}
